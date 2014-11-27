@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "5133e201749a487cb7ef60da1daca55c", 
+  "language": "mar_IN", 
+  "title": "Girl Heroes", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "girl-heroes", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}
