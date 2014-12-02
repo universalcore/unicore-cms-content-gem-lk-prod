@@ -1,17 +1,17 @@
 {
-  "subtitle": "", 
-  "description": "", 
+  "subtitle": "\u0915\u0941\u091b \u091a\u0940\u091c\u093c\u0947\u0902 \u091c\u094b \u0906\u092a \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0948\u0902", 
+  "description": "\u0915\u0941\u091b \u091a\u0940\u091c\u093c\u0947\u0902 \u091c\u094b \u0906\u092a \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0948\u0902", 
   "language": "hin_IN", 
-  "title": "\u0916\u0941\u0926 \u0915\u094b \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0930\u0916\u0947\u0902 ", 
+  "title": "\u0905\u092a\u0928\u0947 \u0906\u092a \u0915\u094b \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0930\u0916\u0947\u0902", 
   "primary_category": "53112726cb754aeabc9d7170d3a17037", 
   "created_at": "2014-11-19T11:29:27+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-25T10:37:30.275573+00:00", 
+  "modified_at": "2014-12-02T05:14:15.690148+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -21,7 +21,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 17, 
+  "position": 20, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "keep_yourself_safe", 
   "uuid": "aa9f9d015e30468ca8bcae634b08cd18"
