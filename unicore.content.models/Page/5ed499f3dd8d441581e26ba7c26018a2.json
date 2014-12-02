@@ -6,12 +6,12 @@
   "primary_category": "53112726cb754aeabc9d7170d3a17037", 
   "created_at": "2014-11-21T06:05:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-02T07:00:21.882260+00:00", 
+  "modified_at": "2014-12-02T07:02:07.853919+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,6 +25,6 @@
   "published": null, 
   "position": 9, 
   "image_host": "http://qa.thumbor.unicore.io", 
-  "slug": "keep_yourself_safe", 
+  "slug": "stay-safe", 
   "uuid": "5ed499f3dd8d441581e26ba7c26018a2"
 }
