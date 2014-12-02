@@ -1,17 +1,17 @@
 {
-  "subtitle": "\u0915\u0948\u0938\u0947 \u092e\u0948\u0902\u0928\u0947 \u090f\u0915 \u0928\u090f \u092a\u0930\u093f\u0935\u093e\u0930 \u0915\u0940 \u0924\u0932\u093e\u0936 \u0915\u0940", 
-  "description": "\u0915\u0948\u0938\u0947 \u092e\u0948\u0902\u0928\u0947 \u090f\u0915 \u0928\u090f \u092a\u0930\u093f\u0935\u093e\u0930 \u0915\u0940 \u0924\u0932\u093e\u0936 \u0915\u0940", 
+  "subtitle": "\u092e\u091d\u0947 \u0926\u094b\u0938\u094d\u0924 \u0914\u0930 \u0909\u092e\u094d\u092e\u0940\u0926 \u092e\u093f\u0932\u0940", 
+  "description": "\u092e\u091d\u0947 \u0926\u094b\u0938\u094d\u0924 \u0914\u0930 \u0909\u092e\u094d\u092e\u0940\u0926 \u092e\u093f\u0932\u0940", 
   "language": "hin_IN", 
-  "title": "\u092a\u0930\u093f\u0924\u094d\u092f\u0915\u094d\u0924 \u0914\u0930 \u0905\u0915\u0947\u0932\u0940", 
+  "title": "\u0905\u0915\u0947\u0932\u0940 \u0914\u0930 \u092a\u0930\u0947\u0936\u093e\u0928 \u0925\u0940", 
   "primary_category": "de3bcece22b2421bba6b59e352352e9b", 
   "created_at": "2014-11-19T09:37:12+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-11-25T10:38:17.453721+00:00", 
+  "modified_at": "2014-12-02T05:49:56.337571+00:00", 
   "_version": {
     "package_version": "0.2.9", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -21,7 +21,7 @@
   "featured": false, 
   "image": null, 
   "published": null, 
-  "position": 13, 
+  "position": 16, 
   "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "Fatuma", 
   "uuid": "8d46a1ba75ae48799710b86914cc091c"
