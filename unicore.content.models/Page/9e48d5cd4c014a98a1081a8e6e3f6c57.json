@@ -4,14 +4,14 @@
   "language": "mar_IN", 
   "title": "\u092e\u0940 \u092e\u093e\u091d\u094d\u092f\u093e \u0938\u094d\u0935\u092a\u094d\u0928\u093e\u0902\u091a\u093e \u0936\u094b\u0927 \u0918\u0947\u0924 \u0906\u0939\u0947", 
   "primary_category": "5133e201749a487cb7ef60da1daca55c", 
-  "created_at": "2014-12-16T05:20:09.541900+00:00", 
+  "created_at": "2014-12-16T05:20:09+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-16T05:20:09.542082+00:00", 
+  "modified_at": "2014-12-17T17:45:20.632180+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 22, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Aurore", 
   "uuid": "9e48d5cd4c014a98a1081a8e6e3f6c57"
