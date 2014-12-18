@@ -4,14 +4,14 @@
   "language": "mar_IN", 
   "title": "\u0906\u092a\u0932\u094d\u092f\u093e\u0932\u093e \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0920\u0947\u0935\u093e", 
   "primary_category": "e2934bbcf70c49b0bb7556bcbbc5260f", 
-  "created_at": "2014-12-17T02:23:02.579215+00:00", 
+  "created_at": "2014-12-17T02:23:02+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-17T02:23:02.579440+00:00", 
+  "modified_at": "2014-12-18T04:43:03.980025+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 16, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "keep_yourself_safe", 
   "uuid": "60caeea8b0ac421988960c33f8f27820"
