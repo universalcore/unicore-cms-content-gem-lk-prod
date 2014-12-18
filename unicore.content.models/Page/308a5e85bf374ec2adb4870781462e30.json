@@ -4,14 +4,14 @@
   "language": "mar_IN", 
   "title": "\u0926\u093f\u0936\u093e \u092e\u093f\u0933\u0923\u094d\u092f\u093e\u092c\u0926\u094d\u0926\u0932 \u0906\u0923\u093f \u092d\u093e\u0935\u0928\u093e \u0935\u094d\u092f\u0915\u094d\u0924 \u0915\u0930\u0923\u094d\u092f\u093e\u092c\u0926\u094d\u0926\u0932 \u0906\u092a\u0932\u094d\u092f\u093e\u0932\u093e \u0905\u0921\u091a\u0923\u0940 \u092f\u0947\u0924\u093e\u0924 \u0915\u093e? ", 
   "primary_category": "e2934bbcf70c49b0bb7556bcbbc5260f", 
-  "created_at": "2014-12-17T05:09:01.197732+00:00", 
+  "created_at": "2014-12-17T05:09:01+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-17T05:09:01.197955+00:00", 
+  "modified_at": "2014-12-18T04:46:34.553447+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 11, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-struggling-find-direction", 
   "uuid": "308a5e85bf374ec2adb4870781462e30"
