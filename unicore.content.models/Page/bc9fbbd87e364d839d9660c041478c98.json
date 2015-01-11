@@ -6,12 +6,12 @@
   "primary_category": "3eaf7e04df4046dba0303ecd3ba07e6c", 
   "created_at": "2015-01-08T04:51:10+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-08T08:46:26.190416+00:00", 
+  "modified_at": "2015-01-11T01:28:59.551987+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 23, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "thandi", 
   "uuid": "bc9fbbd87e364d839d9660c041478c98"
