@@ -4,14 +4,14 @@
   "language": "guj_IN", 
   "title": "\u0a96\u0ac1\u0aa3\u0abe\u0aae\u0abe\u0a82 \u0a9b\u0acb\u0a95\u0abe\u0ab0\u0abe\u0a93 \u0a9b\u0ac7", 
   "primary_category": "f910eeb55b0c463bb93737c22c2a4221", 
-  "created_at": "2015-01-24T04:55:47.729622+00:00", 
+  "created_at": "2015-01-24T04:55:47+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-24T04:55:47.729872+00:00", 
+  "modified_at": "2015-01-24T11:38:13.197879+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 18, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Faith", 
   "uuid": "ab461dafb3b140899eaa6964ee6c88d7"
