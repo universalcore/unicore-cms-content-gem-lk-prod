@@ -4,14 +4,14 @@
   "language": "guj_IN", 
   "title": "\u0ab9\u0ac1 \u0aae\u0abe\u0ab0\u0abe \u0a86\u0a96\u0abe \u0a97\u0abe\u0aae\u0aae\u0abe\u0a82 \u0ab5\u0abf\u0a9c\u0ab3\u0ac0 \u0ab2\u0abe\u0ab5\u0ac0", 
   "primary_category": "f910eeb55b0c463bb93737c22c2a4221", 
-  "created_at": "2015-01-24T04:05:08.134482+00:00", 
+  "created_at": "2015-01-24T04:05:08+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-24T04:05:08.134701+00:00", 
+  "modified_at": "2015-01-24T11:20:26.972680+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 27, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Eugenie", 
   "uuid": "3f4216a2461e4d909e05f9042592efa7"
