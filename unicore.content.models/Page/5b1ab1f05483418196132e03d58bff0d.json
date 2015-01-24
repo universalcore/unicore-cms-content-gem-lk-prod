@@ -4,14 +4,14 @@
   "language": "guj_IN", 
   "title": "\u0ab6\u0ac1\u0a82 \u0aa4\u0aae\u0ac7 \u0aa6\u0abf\u0ab6\u0abe \u0ab6\u0acb\u0aa7\u0ab5\u0abe \u0ab8\u0a82\u0a98\u0ab0\u0acd\u0ab7 \u0a95\u0ab0\u0ac0 \u0ab0\u0ab9\u0acd\u0aaf\u0abe\u0a82 \u0a9b\u0acb? ", 
   "primary_category": "a7e732465a9f44b8869cb2b7909ec282", 
-  "created_at": "2015-01-24T05:57:41.656940+00:00", 
+  "created_at": "2015-01-24T05:57:41+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-24T05:57:41.657133+00:00", 
+  "modified_at": "2015-01-24T11:31:13.471024+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 10, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "are-you-struggling-find-direction", 
   "uuid": "5b1ab1f05483418196132e03d58bff0d"
