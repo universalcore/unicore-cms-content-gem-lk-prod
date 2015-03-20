@@ -4,14 +4,14 @@
   "language": "eng_GB", 
   "title": "Joanna was sold for money", 
   "primary_category": "f9a28362218b45d482c7f13fce2ecf34", 
-  "created_at": "2015-03-20T10:05:40.913404+00:00", 
+  "created_at": "2015-03-20T10:05:40+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-20T10:05:40.914014+00:00", 
+  "modified_at": "2015-03-20T10:37:46.848022+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 5, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "joanna-was-sold-money", 
   "uuid": "eee17c01478046c4a98facf32b1d6541"
