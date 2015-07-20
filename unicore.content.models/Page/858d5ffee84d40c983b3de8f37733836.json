@@ -1,17 +1,17 @@
 {
-  "subtitle": "Meenu", 
+  "subtitle": "\u0a15\u0a70\u0a2e \u0a28\u0a47 \u0a2e\u0a48\u0a28\u0a42\u0a70 \u0a1c\u0a40\u0a09\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a22\u0a70\u0a17 \u0a26\u0a3f\u0a71\u0a24\u0a3e \u0a39\u0a48", 
   "description": "\r\n\u0a15\u0a70\u0a2e \u0a28\u0a47 \u0a2e\u0a48\u0a28\u0a42\u0a70 \u0a1c\u0a40\u0a09\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a22\u0a70\u0a17 \u0a26\u0a3f\u0a71\u0a24\u0a3e \u0a39\u0a48", 
   "language": "pan_IN", 
   "title": "\u0a21\u0a30\u0a40 \u0a05\u0a24\u0a47 \u0a18\u0a30 \u0a35\u0a3f\u0a71\u0a1a \u0a2b\u0a38\u0a40", 
   "primary_category": "dd3ef0a2020b47869ee259501a67a534", 
   "created_at": "2015-07-17T11:42:00+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-20T10:18:29.743159+00:00", 
+  "modified_at": "2015-07-20T10:20:25.307554+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -24,6 +24,6 @@
   "published": null, 
   "position": 19, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "scared-and-stuck-at-home", 
+  "slug": "Meenu", 
   "uuid": "858d5ffee84d40c983b3de8f37733836"
 }
