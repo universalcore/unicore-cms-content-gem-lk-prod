@@ -3,15 +3,15 @@
   "description": "\u0a2d\u0a3e\u0a30\u0a24 \u0a35\u0a3f\u0a71\u0a1a \u0a15\u0a08 \u0a15\u0a41\u0a5c\u0a3f\u0a06\u0a02 \u0a05\u0a24\u0a47 \u0a2e\u0a39\u0a3f\u0a32\u0a3e\u0a35\u0a3e\u0a02 \u0a24\u0a4b \u0a18\u0a30\u0a47 \u0a39\u0a40 \u0a30\u0a39\u0a3f\u0a23 \u0a26\u0a40 \u0a09\u0a2e\u0a40\u0a26 \u0a15\u0a40\u0a24\u0a40 \u0a1c\u0a3e\u0a02\u0a26\u0a40 \u0a39\u0a48 \u0a1c\u0a3f\u0a25\u0a47 \u0a09\u0a39 \u0a2c\u0a3e\u0a39\u0a30\u0a40 \u0a2a\u0a30\u0a47\u0a38\u0a3c\u0a3e\u0a28\u0a40 \u0a24\u0a4b \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a05\u0a24 \u0a39\u0a28\u0964 \u0a2a\u0a30 \u0a15\u0a08 \u0a1c\u0a3f\u0a06\u0a26\u0a3e \u0a15\u0a41\u0a5c\u0a3f\u0a06\u0a02 \u0a28\u0a47 \u0a07\u0a38\u0a28\u0a42\u0a70 \u0a2c\u0a26\u0a32\u0a23 \u0a26\u0a40 \u0a39\u0a3f\u0a70\u0a2e\u0a24 \u0a2a\u0a3e\u0a08 \u0a39\u0a48\u0964 \u0a07\u0a39 \u0a09\u0a39\u0a28\u0a3e\u0a02 \u0a35\u0a3f\u0a71\u0a1a\u0a4b \u0a07\u0a71\u0a15 \u0a15\u0a41\u0a5c\u0a40 \u0a26\u0a40 \u0a15\u0a39\u0a3e\u0a23\u0a40 \u0a39\u0a48\u0964\r\n", 
   "language": "pan_IN", 
   "title": "\u0a21\u0a30\u0a40 \u0a05\u0a24\u0a47 \u0a18\u0a30 \u0a35\u0a3f\u0a71\u0a1a \u0a2b\u0a38\u0a40", 
-  "primary_category": "e2934bbcf70c49b0bb7556bcbbc5260f", 
+  "primary_category": "dd3ef0a2020b47869ee259501a67a534", 
   "created_at": "2015-07-17T11:42:00+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-17T09:49:40.405908+00:00", 
+  "modified_at": "2015-07-20T07:55:44.948267+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 1, 
+  "position": 17, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "scared-and-stuck-at-home", 
   "uuid": "858d5ffee84d40c983b3de8f37733836"
