@@ -4,14 +4,14 @@
   "language": "ben_IN", 
   "title": "\u0986\u09ae\u09be\u09b0 \u09ac\u09be\u09ac\u09be-\u09ae\u09be \u09a8\u09c7\u0987", 
   "primary_category": "09b89c08c45f4f0ca81d94132eb257d6", 
-  "created_at": "2015-07-29T23:59:19.148935+00:00", 
+  "created_at": "2015-07-29T23:59:19+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-29T23:59:19.149287+00:00", 
+  "modified_at": "2015-07-30T02:06:26.462423+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 23, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Preity", 
   "uuid": "27a1c290f5cb4f34bfee916fff1166cd"
