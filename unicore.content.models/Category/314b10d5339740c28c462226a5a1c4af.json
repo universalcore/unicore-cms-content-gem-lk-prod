@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "314b10d5339740c28c462226a5a1c4af", 
   "language": "ben_IN", 
-  "title": "Life tips -bangla", 
+  "title": "\u099c\u09c0\u09ac\u09a8\u09af\u09be\u09a4\u09cd\u09b0\u09be\u09b0 \u09aa\u09b0\u09be\u09ae\u09b0\u09cd\u09b6", 
   "image": null, 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "life-tips-bangla", 
