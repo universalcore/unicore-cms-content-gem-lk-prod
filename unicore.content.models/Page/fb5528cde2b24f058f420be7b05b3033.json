@@ -4,14 +4,14 @@
   "language": "kan_IN", 
   "title": "\u0ca8\u0ca8\u0ccd\u0ca8 \u0c9c\u0cc0\u0cb5\u0ca8\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf \u0caf\u0cbe\u0cb5\u0cc1\u0ca6\u0cc7 \u0ca6\u0cbf\u0c95\u0ccd\u0c95\u0cc1\u0c97\u0cb3\u0cbf\u0cb2\u0ccd\u0cb2. ", 
   "primary_category": "776991e3bf854a7e9cf94747c9e456c2", 
-  "created_at": "2015-08-06T05:35:35.866993+00:00", 
+  "created_at": "2015-08-06T05:35:35+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-08-06T05:35:35.867300+00:00", 
+  "modified_at": "2015-08-06T10:42:26.312161+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 14, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "Mabreidy", 
   "uuid": "fb5528cde2b24f058f420be7b05b3033"
