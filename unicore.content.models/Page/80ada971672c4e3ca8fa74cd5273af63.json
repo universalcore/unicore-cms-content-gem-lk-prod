@@ -6,12 +6,12 @@
   "primary_category": "de3bcece22b2421bba6b59e352352e9b", 
   "created_at": "2015-07-29T20:02:55.336695+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-07-29T20:02:55.336891+00:00", 
+  "modified_at": "2015-08-10T09:04:20.970970+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 157, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-avoid-getting-sick", 
   "uuid": "80ada971672c4e3ca8fa74cd5273af63"
