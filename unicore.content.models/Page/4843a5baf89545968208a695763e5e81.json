@@ -6,15 +6,17 @@
   "primary_category": "f9a28362218b45d482c7f13fce2ecf34", 
   "created_at": "2015-03-20T09:45:58+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-03-20T09:57:10.911179+00:00", 
+  "modified_at": "2015-08-10T09:04:33.511850+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6b88358b47f84fbe8f0c43850f381907"
+  ], 
   "id": null, 
   "content": "*All over the world girls are doing remarkable things and inspiring others to do the same. Here are just two...*\r\n\r\n**The girl who spoke out about trafficking**\r\n\r\nAfter being bought for USD$400 by traffickers, 19-year-old Somila was almost sold into prostitution before being rescued at the last minute. It would have been easy for her to go into hiding afterwards, but Somila refused to stay silent and spoke out passionately about her ordeal in India: \"They should realise that they cannot separate daughters from their parents and make us fools. They speak lies and make us fools. They cheat us.\"\r\n\r\n**The girl who spoke the truth about child marriage**\r\n\r\nEven though the law in India says girls must be 18 before they marry, almost half aren't. Often, it's girls' parents who make that decision, so it's difficult and scary for girls to speak out. When Kamla, 13, spoke to the Council on Foreign Relations for its report on child marriage, her honest and frank answers completely broke the mould. \"When my parents mentioned marriage, I had no idea what 'marriage' even meant,\" she told her interviewer. Her courage to speak up is inspiring world leaders to act.\r\nBeing born a girl shouldn't mean living with less freedom and rights than a boy. Girls are ready to stand up and be counted. Take the first step with these tips!\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 3, 
+  "position": 219, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "when-girls-speak-out", 
   "uuid": "4843a5baf89545968208a695763e5e81"
