@@ -6,12 +6,12 @@
   "primary_category": "56276cf9cc784a91af056bc04883f06f", 
   "created_at": "2015-07-31T06:10:09.967088+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-10T09:04:10.905426+00:00", 
+  "modified_at": "2015-08-10T10:29:59.510563+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 108, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "these-10-tips-help-girls", 
   "uuid": "1f61cdd7e2d34d1a9f203f0f1093370f"
