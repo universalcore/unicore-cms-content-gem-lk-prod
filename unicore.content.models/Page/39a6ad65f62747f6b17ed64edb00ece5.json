@@ -6,12 +6,12 @@
   "primary_category": "09cbda1a07864087b7a5cef611f9230d", 
   "created_at": "2015-01-11T02:34:39.679672+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-13T09:18:28.214673+00:00", 
+  "modified_at": "2015-08-10T09:04:58.327822+00:00", 
   "_version": {
     "package_version": "0.3.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 11, 
+  "position": 295, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "why-study-hard", 
   "uuid": "39a6ad65f62747f6b17ed64edb00ece5"
