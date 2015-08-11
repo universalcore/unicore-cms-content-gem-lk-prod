@@ -2,13 +2,13 @@
   "subtitle": "", 
   "uuid": "2001b5a6777547bfb6971f773afa0555", 
   "language": "ori_IN", 
-  "title": "Girl Heroes - Oriya", 
+  "title": "\u0b2c\u0b3e\u0b33\u0b3f\u0b15\u0b3e \u0b2c\u0b40\u0b30", 
   "image": null, 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "girl-heroes-oriya", 
