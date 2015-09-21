@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "b79dbab8cc2140068d224260195d02e5", 
+  "language": "kan_IN", 
+  "title": "\u0c9c\u0cbf\u0cd5\u0cb5\u0ca8\u0ca6 \u0cb8\u0cb2\u0cb9\u0cc6\u0c97\u0cb3\u0cc1", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.4.0", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "life-tips-kannada", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

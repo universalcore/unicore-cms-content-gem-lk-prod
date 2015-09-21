@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "53112726cb754aeabc9d7170d3a17037", 
+  "language": "hin_IN", 
+  "title": "\u091c\u0940\u0935\u0928 \u0915\u0940 \u092f\u0941\u0915\u094d\u0924\u093f\u092f\u093e\u0901", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.9", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "life-tips", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

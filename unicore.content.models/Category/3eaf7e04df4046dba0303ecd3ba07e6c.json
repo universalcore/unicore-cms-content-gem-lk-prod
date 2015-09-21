@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "3eaf7e04df4046dba0303ecd3ba07e6c", 
+  "language": "tel_IN", 
+  "title": "\u0c05\u0c2e\u0c4d\u0c2e\u0c3e\u0c2f\u0c3f \u0c28\u0c3e\u0c2f\u0c15\u0c41\u0c32\u0c41", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "girl-heroes", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": null
+}

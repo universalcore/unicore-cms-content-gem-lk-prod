@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "mar_IN", 
+  "title": "\u0938\u0902\u092a\u0930\u094d\u0915", 
+  "primary_category": null, 
+  "created_at": "2014-12-18T04:35:51+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-08-10T09:05:03.094844+00:00", 
+  "_version": {
+    "package_version": "0.3.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "\u0906\u092a\u0932\u094d\u092f\u093e\u0932\u093e \u0939\u0935\u0947 \u0939\u094b\u0924\u0947 \u0924\u0947 \u0939\u094d\u092f\u093e \u0938\u093e\u0908\u091f\u0935\u0930 \u092e\u093f\u0933\u093e\u0932\u0947 \u0915\u093e? \u091c\u0930 \u0906\u092e\u091a\u094d\u092f\u093e\u0915\u0921\u0942\u0928 \u0905\u091c\u0942\u0928 \u0915\u093e\u0939\u0940 \u0906\u0935\u0936\u094d\u092f\u0915 \u0905\u0938\u0947\u0932 \u0924\u0930 \u0907\u0925\u0947 \u0938\u093e\u0902\u0917\u093e- \r\n\r\n\u0906\u092e\u094d\u0939\u093e\u0902\u0932\u093e EMAIL \u0915\u0930\u093e  (info@girleffect.org) \r\n\r\n\u0906\u092e\u094d\u0939\u093e\u0902\u0932\u093e \u0932\u093e\u0908\u0915 \u0915\u0930\u093e [FACEBOOK][1] \r\n\r\n\r\n  [1]: https://www.facebook.com/girleffect", 
+  "source": "2750021fbfee427b8ce8656fccd78ad5", 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 350, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "contact", 
+  "uuid": "24bc3197a84e4b59ae9edc6748c49b4e"
+}
